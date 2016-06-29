@@ -1,0 +1,8 @@
+(function() {
+
+
+}).call(this);
+
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAiZmlsZSI6ICIiLAogICJzb3VyY2VSb290IjogIiIsCiAgInNvdXJjZXMiOiBbCiAgICAiL1VzZXJzL25hdmVyLy5hdG9tL3BhY2thZ2VzL2J1aWxkLWd1bHAvc3BlYy9maXh0dXJlL25vZGVfbW9kdWxlc19iYWJlbC9yZXNvbHZlL3Rlc3QvcmVzb2x2ZXIvY3VwLmNvZmZlZSIKICBdLAogICJuYW1lcyI6IFtdLAogICJtYXBwaW5ncyI6ICJBQUFTO0FBQUE7QUFBQSIKfQ==
+
+//# sourceURL=/Users/naver/.atom/packages/build-gulp/spec/fixture/node_modules_babel/resolve/test/resolver/cup.coffee

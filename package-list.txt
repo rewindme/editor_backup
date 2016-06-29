@@ -1,0 +1,17 @@
+Remote-FTP@0.8.3
+asciidoc-preview@2.5.1
+atom-material-syntax@0.4.6
+atom-material-ui@1.2.13
+autoclose-html@0.23.0
+bottom-dock@0.4.4
+build@0.64.0
+build-gulp@0.11.0
+busy@0.5.0
+file-icons@1.7.15
+gulp-control@0.4.5
+merge-conflicts@1.4.4
+monokai@0.18.0
+project-manager@2.9.7
+terminal-plus@0.14.5
+
+

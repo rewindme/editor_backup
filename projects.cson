@@ -1,0 +1,15 @@
+memo:
+  title: "Memo"
+  paths: [
+    "/Users/naver/nhn_work/git/MEMO/memo"
+  ]
+mail:
+  title: "Mail"
+  paths: [
+    "/Users/naver/nhn_work/git/MAIL/mail"
+  ]
+myarea:
+  title: "Myarea"
+  paths: [
+    "/Users/naver/nhn_work/git/MAIL/myarea"
+  ]

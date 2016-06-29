@@ -1,0 +1,67 @@
+"*":
+  "asciidoc-preview": {}
+  "atom-material-ui":
+    colors:
+      abaseColor:
+        red: 96
+        green: 125
+        blue: 139
+        alpha: 1
+      predefinedColor: "Blue Grey"
+    tabs:
+      compactTabs: true
+      tintedTabBar: true
+    treeView:
+      blendTabs: true
+      compactList: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  "atom-webbrowser":
+    autoReloadCache: true
+    homepage: "http://localhost:3000"
+  "autoclose-html":
+    makeNeverCloseSelfClosing: false
+  autocomplete: {}
+  "autocomplete-plus":
+    liveCompletion: true
+  core:
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+    projectHome: "/Users/naver/git"
+    themes: [
+      "atom-material-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 13
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "75866fd5-41a1-6432-e2f4-e2b3b0e307c6"
+  metrics:
+    userId: "e4fd08ef40bc84dd6e75611d25c480bc060d3ab9"
+  preview:
+    _analyticsUserId: "59ac3f4a-5270-44db-955a-56214df6e73a"
+  "project-manager":
+    sortBy: "last modified"
+  "release-notes":
+    viewedVersion: "0.79.0"
+  "remote-atom": {}
+  "terminal-plus":
+    style:
+      fontFamily: "menlo"
+      fontSize: "12pt"
+    toggles:
+      autoClose: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".preview":
+  editor:
+    tabLength: 4

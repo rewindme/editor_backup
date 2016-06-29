@@ -1,0 +1,1 @@
+{"context-menu":{"atom-text-editor":[{"label":"Toggle Preview","command":"preview:toggle"},{"label":"Toggle Preview Options","command":"preview:toggle-options"},{"label":"Select Preview Renderer","command":"preview:select-renderer"}]}}

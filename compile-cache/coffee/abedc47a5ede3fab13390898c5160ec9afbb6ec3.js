@@ -1,0 +1,8 @@
+(function() {
+  test(test);
+
+}).call(this);
+
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAiZmlsZSI6ICIiLAogICJzb3VyY2VSb290IjogIiIsCiAgInNvdXJjZXMiOiBbCiAgICAiL1VzZXJzL25hdmVyLy5hdG9tL3BhY2thZ2VzL2J1aWxkLWd1bHAvc3BlYy9maXh0dXJlL25vZGVfbW9kdWxlc19iYWJlbC9nbG9iLXdhdGNoZXIvdGVzdC9maXh0dXJlcy90ZXN0LmNvZmZlZSIKICBdLAogICJuYW1lcyI6IFtdLAogICJtYXBwaW5ncyI6ICJBQUFBO0FBQUEsRUFBQSxJQUFBLENBQUssSUFBTCxDQUFBLENBQUE7QUFBQSIKfQ==
+
+//# sourceURL=/Users/naver/.atom/packages/build-gulp/spec/fixture/node_modules_babel/glob-watcher/test/fixtures/test.coffee
